@@ -1,7 +1,7 @@
 
 ---
 
-# ✅ **2. CONTRIBUTING.md (pronto para colar)**
+# ✅ **2. CONTRIBUTING.md **
 
 ```md
 # Guia de Contribuição
